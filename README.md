@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pr0-k0der
-- 👀 I’m interested in Computational Mathematics
+- 👀 I’m interested in getting this degree
 - 🌱 I’m currently learning CSE with specialization in Blockchain technology
 - 📫 How to reach me - pratik.panda119@gmail.com
 
